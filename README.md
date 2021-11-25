@@ -1,6 +1,6 @@
 # Hi! :musical_note:
 
-*I'm Guillaume, a web developer and artists based in Brussels.*
+*I'm Guillaume, a web developer and artist based in Brussels.*
 
 ## Some words about me 
 
