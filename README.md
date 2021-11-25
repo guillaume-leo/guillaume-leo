@@ -34,4 +34,4 @@ It's about a code editor created with the idea of being used in live coding situ
 
 ### Contact 
 
-[send me an email](mailto: quet.guillaume.leo@gmail.com?subject=Hello) 
+[send me an email](quet.guillaume.leo@gmail.com) 
