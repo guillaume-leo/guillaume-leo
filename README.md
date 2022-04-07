@@ -14,23 +14,12 @@ Then during the 2019/2020 I've done a training about web development to improve 
 
 ## Languages/libraries/softwares I like
 
-* JavaScript HTML/CSS
+* JavaScript, Typescript, Ruby, HTML/CSS
 * NodeJs
-* React / Vue / Redux / Codemirror
-* Typescript
+* React / Vue / Codemirror
+* Electron
 * GLSL
-* Scheme
-* Max/Msp / PureData / Ableton
-
-
-
-## About my projects
-
-I'm currently making an opensource application with Tauri, VueJs 3, Codemirror and Typescript.
-
-It's about a code editor created with the idea of being used in live coding situations for music and visuals, and in combination with the [Scheme For Max external](https://github.com/iainctduncan/scheme-for-max) made by Iain Duncan. Feel free to [take a look](https://github.com/guillaume-leo/scheme-editor)!
-
-
+* Max/Msp / Ableton
 
 ### Contact 
 
